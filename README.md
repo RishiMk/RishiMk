@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishikesh Manke.
-- 👀 I’m interested in Data Science and Data Analytics.
-- 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate on building case study project in Data Analytics.
+- 👀 I’m interested in Data Science and Software Development.
+- 🌱 I’m currently learning Data Science and Development Softwares.
+- 💞️ I’m looking forward in building new projects.
 - 📫 How to reach me Rushikeshmk2000@gmail.com
 
 <!---
