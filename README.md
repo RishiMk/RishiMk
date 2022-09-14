@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishikesh Manke.
-- 👀 I’m interested in Data Science and Software Development.
+- 👀 I’m interested in Data Science, Data Analytics and Software Development.
 - 🌱 I’m currently learning Data Science and Development Softwares.
 - 💞️ I’m looking forward in building new projects.
 - 📫 How to reach me Rushikeshmk2000@gmail.com
