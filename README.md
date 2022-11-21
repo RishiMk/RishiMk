@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishikesh Manke.
-- 👀 I’m interested in Big Data, Data Analytics and Software Development.
+- 👀 I’m interested in Big Data, Data Analytics and Data Engineering.
 - 🌱 I’m currently learning BigData Hadoop and Development Softwares.
 - 💞️ I’m looking forward in building new projects.
 - 📫 How to reach me Rushikeshmk2000@gmail.com
